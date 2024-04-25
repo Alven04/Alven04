@@ -1,5 +1,5 @@
 ### Hi there, fellow coder 👋
-👋 Hey there! I'm Alven, a final year student passionate about Data Science and Machine Learning and its applications in healthcare. Currently, I'm diving deep into a fascinating project on multi-label clinical text classification with an attention mechanism. 🧠💡
+👋 I'm Alven, a final year student passionate about Data Science and Machine Learning and its applications in healthcare. Currently, I'm diving deep into a fascinating project on multi-label clinical text classification with an attention mechanism. 🧠💡
 
 🚀 This project aims to leverage cutting-edge techniques in natural language processing and deep learning to enhance the understanding and categorization of clinical texts, paving the way for more accurate diagnoses and personalized treatments.
 
